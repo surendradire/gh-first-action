@@ -9,4 +9,4 @@ jobs:
       - name: print goodby
         run: |
           echo "Issu is fixed !!"
-          exho "Weldone !!"
+          echo "Weldone !!"
