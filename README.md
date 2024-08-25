@@ -1,1 +1,1 @@
-# github-actions-demo
+gh-first-action
